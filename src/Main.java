@@ -11,5 +11,6 @@ public class Main {
 
         masterAndMargarita.setYearOfPublication(1959);
         System.out.println(masterAndMargarita);
+
     }
 }
