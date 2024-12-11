@@ -1,8 +1,8 @@
 import java.util.Objects;
 
 public class Author {
-    public String name;
-    public String lastname;
+    private String name;
+    private String lastname;
 
     public Author(String name, String lastname) {
         this.name = name;
